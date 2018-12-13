@@ -1,0 +1,12 @@
+
+public class application {
+	public static void main(String[] args) {
+		
+		int mynum = 23;
+				if (mynum > 20)
+				{
+					System.out.println("yes, its working");
+				}
+	}
+
+}

@@ -1,0 +1,20 @@
+
+public class application {
+	public static void main(String[] args) {
+		
+		int mynum = 25;
+				if (mynum > 30)
+				{
+					System.out.println("yes, its working");
+				}
+				else if (mynum == 25){
+					System.out.println("oops : please check again");
+				}
+				else {
+					System.out.println("unda kaam");
+				}
+					
+					
+	}
+
+}

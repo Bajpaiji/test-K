@@ -1,0 +1,13 @@
+
+public class application {
+	public static void main(String[] args) {
+		int myvalue = 20;
+		
+		while (myvalue < 20)
+		{
+			System.out.println("hello" + myvalue);
+			myvalue = myvalue+1;
+		}
+		
+	}
+}
